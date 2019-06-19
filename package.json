@@ -1,0 +1,13 @@
+{
+  "name": "flow-declarations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Federico Zivolo <federico.zivolo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "flow-bin": "^0.102.0-rc",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
